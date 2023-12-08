@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="description_app">Application to set reminders. It will help you improve your habits with reminders via alarm or vibrator.</string>
+    <string name="txt_brand">By KEDURO</string>
+</resources>
